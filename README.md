@@ -1,3 +1,3 @@
 # Tutoriais-Tabela
 
-- [Diárias e Passagens](/Diarias-E-Passagens)
+- [Diárias e Passagens](./Diarias-E-Passagens)
