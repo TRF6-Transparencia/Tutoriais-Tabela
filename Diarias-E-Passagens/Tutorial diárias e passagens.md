@@ -17,7 +17,8 @@ Faça login como editor em [http://trf6.jus.br/editores](http://trf6.jus.br/edit
 ---
 
 ## Etapa 3
-- Na edição da página principal, vamos clicar em cima da tabela e selecionar **`Edit code`**
+- Na página principal, vamos clicar em **`Editar página`** no menu superior
+- Depois, quando o editor abrir, vamos clicar em cima da tabela e selecionar **`Edit code`**
 ![Imagem representativa](https://i.imgur.com/Cck5zqS.png)
 - No topo da caixa que abrir, selecione a aba **`JavaScript`**
 ![Imagem representativa](https://i.imgur.com/xjkqG52.png)
